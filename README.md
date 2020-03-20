@@ -5,7 +5,7 @@ The model consists of one convolution layer followed by max pooling and another 
 After that, the model will have fully connected layer which is connected to Softmax layer.  
 
 After running it for 5 epochs we  achieve: 
-##### Training Loss:  0.7445856 <br/> Training Accuracy:  0.871372 
+#### Training Loss:  0.7445856 <br/> Training Accuracy:  0.871372 
 
 ## DataSet from WISDM: WIreless Sensor Data Mining
 The Actitracker data set released by Wireless Sensor Data Mining (WISDM) lab. 
