@@ -1,6 +1,8 @@
 # Human-Activity-Detection
 
- In this module we trained a CNN to recognize different human activities performed in real life from raw accelerometer signals collected from a smartphone. <br/> The model consists of one convolution layer followed by max pooling and another convolution layer. After that, the model will have fully connected layer which is connected to Softmax layer.  <br/> After running it for 5 epochs we  achieve: <br/> 
+ In this module we trained a CNN to recognize different human activities performed in real life from raw accelerometer signals collected from a smartphone. 
+ 
+<br/> The model consists of one convolution layer followed by max pooling and another convolution layer. After that, the model will have fully connected layer which is connected to Softmax layer.  <br/> After running it for 5 epochs we  achieve: <br/> 
  
 ##### Training Loss:  0.7445856 <br/> Training Accuracy:  0.871372 
 
