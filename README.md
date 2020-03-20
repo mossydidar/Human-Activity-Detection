@@ -1,5 +1,6 @@
 # Human-Activity-Detection
- 
+
+#### In this module we trained a CNN to Recognize different Human Activities performed in Real Life from raw accelerometer signals collected from a smartphone. <br/> The model consists of one convolution layer followed by max pooling and another convolution layer. After that, the model will have fully connected layer which is connected to Softmax layer.  <br/> After running it for 5 epochs we  achieve <br/> Training Loss:  0.7445856 <br/> Training Accuracy:  0.871372 
 
 ## DataSet from WISDM: WIreless Sensor Data Mining
 The Actitracker data set released by Wireless Sensor Data Mining (WISDM) lab. 
