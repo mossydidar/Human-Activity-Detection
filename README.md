@@ -1,13 +1,14 @@
 # Human-Activity-Detection
  
 
-## DataSet from UCI MACHINE LEARNING REPOSITORY 
-http://archive.ics.uci.edu/ml/datasets/User+Identification+From+Walking+Activity
+## DataSet from WISDM: WIreless Sensor Data Mining
+
+http://www.cis.fordham.edu/wisdm/dataset.php
 
 ## DataSet Description 
 
-The dataset collects data from an Android smartphone positioned in the chest pocket. Accelerometer Data are collected from 22 participants walking in the wild over a predefined path. The dataset is intended for Activity Recognition research purposes. It provides challenges for identification and authentication of people using motion patterns.
-
---- Sampling frequency of the accelerometer: DELAY_FASTEST with network connections disabled
---- Number of Participants: 22
---- Data Format: txt
+Actitracker data set released by Wireless Sensor Data Mining (WISDM) lab. 
+This dataset contains six daily activities collected in a controlled laboratory environment. 
+The activities include jogging, walking, ascending stairs, descending stairs, sitting and standing. 
+The data is collected from 36 users using a smartphone in their pocket with the 20Hz sampling rate (20 values per second). 
+The dataset distribution with respect to activities (class labels) is shown in the figure below.
