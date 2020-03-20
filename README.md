@@ -12,8 +12,8 @@ This dataset contains six daily activities collected in a controlled laboratory 
 The activities include jogging, walking, ascending stairs, descending stairs, sitting and standing. <br/>
 The data is collected from 36 users using a smartphone in their pocket with the 20Hz sampling rate (20 values per second). <br/>
 
-# Statistics
-## Raw Time Series Data
+## Statistics
+### Raw Time Series Data
 
 Number of examples: 1,098,207 <br/>
 Number of attributes: 6 <br/>
